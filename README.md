@@ -79,3 +79,21 @@ DATA I/O | 4
 VDD | 6V
 VDD | 3V3
 VSS | GND
+
+### Prueba Motores
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book
+
+Visita el código base en el siguiente link 
+
+### Prueba sensor IR
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book
+
+Visita el código base en el siguiente link 
+
+### Control Remote desde Dabble
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book
+
+Visita el código base en el siguiente link 
