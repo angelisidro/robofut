@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PCB_RoboFut.PrjPcb]
+   Generated File[RoboFut.TXT]
+   Generated File[RoboFut.LDP]
+   Generated File[RoboFut.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:26:18 On 23/03/2022
